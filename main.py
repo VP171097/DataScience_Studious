@@ -1,6 +1,5 @@
 '''
 The following code is for the Linear Regression
-Created by- ANALYTICS VIDHYA
 '''
 
 # importing required libraries
